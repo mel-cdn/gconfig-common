@@ -1,4 +1,4 @@
 gversion=2.11.2.x
 force=No
-forceUpdate=2.11.1.x|2.11.0.x
 updates=[v2.11.1]|*FIX* Additional support for Windows 7 & 8|*UI ONLY* Step Highlights on Steamer (Train) Macro|[v2.11.0]|*NEW* Client version checker|*ADJUST* Chaos Infinity (CI): Private C - Server Entrance|[v2.10.8]|*NEW* Chaos Infinity (CI) (Private)|[v2.10.5]|*NEW* Steamer Crazy (Train) Macro (Private & Official)GEND
+
