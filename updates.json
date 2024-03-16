@@ -1,8 +1,10 @@
 {
-    "[v2.16.1] - March 13, 2024": [
+    "[v2.16.4] - March 17, 2024": [
         "*FIX* Chaos Infinity (CI) NOT Exiting dungeon properly",
         "*ADJUST* Challenge dungeon delayed start",
-        "*ADJUST* Disable F10 shortcut key option"
+        "*ADJUST* Disable F10 shortcut key option",
+        "*ADJUST* Awakened Steamer Crazy (Train) - Avoid Platinum Buff Click (Official)",
+        "*NEW* Baldus Macro - Zoom Out option"
     ],
     "[v2.16.0] - March 9, 2024": [
         "*FREE* Awakened Steamer Crazy (Train) - NOW FREE!",
