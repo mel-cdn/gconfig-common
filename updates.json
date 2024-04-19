@@ -1,6 +1,10 @@
 {
+    "[v2.16.6] - April 20, 2024": [
+        "*ADJUST* Private Episode 31 - Dungeon Entrance",
+        "*ADJUST* Private Episode 31 - Receive Guild Treasure"
+    ],
     "[v2.16.5] - March 28, 2024": [
-        "*NEW* Support for PlayCabal Private Episode 31"        
+        "*NEW* Support for Private Episode 31"        
     ],
     "[v2.16.4] - March 17, 2024": [
         "*FIX* Chaos Infinity (CI) NOT Exiting dungeon properly",
