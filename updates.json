@@ -1,4 +1,10 @@
 {
+    "[v2.17.1] - May 11, 2024": [
+        "*NEW* Re-channel Denev Map (Private Server)",
+        "*FIX* Re-channel load saved config",
+        "*ADJUST* Overall Timing",
+        "*NEW* EOD B1F Prepartion UI"        
+    ],
     "[v2.17.0] - May 6, 2024": [
         "*NEW* ECA - BM Timing",
         "*NEW* ECA - Dungeon Settings",
