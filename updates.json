@@ -1,4 +1,9 @@
 {
+    "[v2.18.0] - May 11, 2024": [
+        "*NEW DUNGEON* Tower of the Dead (EOD B1F)",
+        "*ADJUST* Use Force Gem Entry - Now in More Dungeon Settings",
+        "*ADJUST* Steamer Train Macro - Kill Steaky first before Door"        
+    ],
     "[v2.17.1] - May 11, 2024": [
         "*NEW* Re-channel Denev Map (Private Server)",
         "*FIX* Re-channel load saved config",
@@ -56,7 +61,7 @@
         "*NEW* Dungeon Common Settings"
     ],
     "[v2.12.0]": [
-        "*NEW MACRO* Dungeon - Eternal Chaos Arena (ECA) (Official Servers)",
+        "*NEW DUNGEON* Dungeon - Eternal Chaos Arena (ECA) (Official Servers)",
         "*ADJUST* Re-channel for CABAL PH (Mercury and Cygnus)",
         "*NEW* Re-channel up to 25 channels for CABAL NA and EU"
     ],
@@ -71,13 +76,13 @@
         "*ADJUST* Dungeon ARH: Maga and Bigcrup Routine"
     ],
     "[Older Versions]": [
-        "*NEW MACRO* Dungeon - Radiant Hall Aprocrypha (ARH)",
+        "*NEW DUNGEON* Dungeon - Radiant Hall Aprocrypha (ARH)",
         "*NEW* Save Config for Rechannel, ARH, Train, CI, CA and Baldus",
         "*FIX* Additional support for Windows 7 and 8",
         "*UI ONLY* Step Highlights on Steamer (Train) Macro",
         "*NEW* Client version checker",
         "*ADJUST* Chaos Infinity (CI): Private C - Server Entrance",
-        "*NEW MACRO* Chaos Infinity (CI) (Private)",
-        "*NEW MACRO* Steamer Crazy (Train) Macro (Private and Official)"
+        "*NEW DUNGEON* Chaos Infinity (CI) (Private)",
+        "*NEW DUNGEON* Steamer Crazy (Train) Macro (Private and Official)"
     ]
 }
