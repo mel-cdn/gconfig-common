@@ -1,14 +1,13 @@
 {
-    "[v2.18.0] - May 12, 2024": [
+    "[v2.17.2] - May 13, 2024": [
         "*NEW DUNGEON* Tower of the Dead (EOD B1F)",
-        "*ADJUST* Use Force Gem Entry - Now in More Dungeon Settings",
-        "*ADJUST* Steamer Train Macro - Kill Steaky first before Door"        
+        "*ADJUST* Use Force Gem Entry - Now in More Dungeon Settings"
     ],
     "[v2.17.1] - May 11, 2024": [
         "*NEW* Re-channel Denev Map (Private Server)",
         "*FIX* Re-channel load saved config",
         "*ADJUST* Overall Timing",
-        "*NEW* EOD B1F Prepartion UI"        
+        "*NEW* EOD B1F Prepartion UI"
     ],
     "[v2.17.0] - May 6, 2024": [
         "*NEW* ECA - BM Timing",
