@@ -1,4 +1,9 @@
 {
+    "[v2.18.0] - June 7, 2024": [
+        "*NEW DUNGEON* Tower of the Dead (EOD B1F)",
+        "*ADJUST* More Dungeon Settings - Extract After Run Delay",
+        "*NEW DUNGEON PREPARATION* Map Part (Lake in DUsk)"
+    ],
     "[v2.17.2] - May 13, 2024": [
         "*NEW DUNGEON PREPARATION* Tower of the Dead (EOD B1F)",
         "*ADJUST* Use Force Gem Entry - Now in More Dungeon Settings"
