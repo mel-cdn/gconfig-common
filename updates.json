@@ -1,4 +1,10 @@
 {
+    "[v2.18.1] - July 8, 2024": [
+        "*ADJUST* Tower of the Dead (EOD B1F) - Warping Portals",
+        "*ADJUST* Tower of the Dead (EOD B1F) - Remove Screamers B",
+        "*ADJUST* Awakened Hazardous Valley (AHV) - Not Entering",
+        "*ADJUST* Extract After Dungeron Run to 7 Rows"
+    ],
     "[v2.18.0] - June 7, 2024": [
         "*NEW DUNGEON* Tower of the Dead (EOD B1F)",
         "*ADJUST* More Dungeon Settings - Extract After Run Delay",
