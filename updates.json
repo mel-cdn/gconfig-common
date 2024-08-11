@@ -1,11 +1,14 @@
 {
+    "[v2.19.0] - August 12, 2024": [
+        "*HOT FIX* Blocklist Servers"
+    ],
     "[v2.18.5] - August 1, 2024": [
-        "*ADJUST* Baldus for GILAS"        
+        "*ADJUST* Baldus for GILAS"
     ],
     "[v2.18.3] - July 23, 2024": [
         "*NEW DUNGEON* Eternal Chaos Arena (ECA) on Private Servers",
         "*NEW* Support for Private Server EP.31 and EP.33",
-        "*NEW* Steamer Crazy (Train) Macro - Final Boss Single Retarget"        
+        "*NEW* Steamer Crazy (Train) Macro - Final Boss Single Retarget"
     ],
     "[v2.18.1] - July 8, 2024": [
         "*ADJUST* Tower of the Dead (EOD B1F) - Warping Portals",
