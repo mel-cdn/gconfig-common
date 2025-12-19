@@ -1,5 +1,5 @@
 gversion=2.34.1
-forceUpdate=2.34.0|X.XX.XXGEND
+forceUpdate=X.XX.XX|2.34.0|X.XX.XXGEND
 updates=[v2.34.0] - December 20, 2025|*FIX* DUN-AHV: Fixed not moving to Lumberjack with Mercenary|*ADJUST* DUN-LID: Improved after mini boss Rik|*NEW* DUN-TRAIN: Added Loot Timer after Final Boss|*NEW* DUN-ARH: Added Loot Timer after Final Boss|[v2.33.X] - November 2025|*NEW* Added Auto-Buy dungeon entry on some servers|*NEW* Changed setup of target window to drag to CABAL client|*FIX* Fixed incosistent Retarget Delay|[v2.XX.X] - Older Version History|Archived.GEND
 links_normal_mac=https://youtu.be/JVUtSvKZqZs|https://youtu.be/ouQXHytcPz0GEND
 links_normal_dun=https://youtu.be/-PXZzeuBdAEND
