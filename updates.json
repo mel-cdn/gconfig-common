@@ -1,6 +1,7 @@
 {
     "[v2.35.0] - January 15, 2026": [
         "*NEW* Dungeon: Siena B2F - Polluted Mobs Spot",
+        "*NEW* Added Dungeon Settings - Sort Only",
         "*NEW* Added Re-channel save config",
         "*CLEANUP* Removed unused stuffs"
     ],
