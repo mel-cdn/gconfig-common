@@ -1,5 +1,5 @@
-gversion=2.36.0
-forceUpdate=2.35.0|X.XX.XXGEND
+gversion=2.35.0
+forceUpdate=2.34.0|X.XX.XXGEND
 updates=[v2.35.0] - January 15, 2026|*NEW* Dungeon: Siena B2F - Polluted Mobs Spot|*NEW* Added Dungeon Settings - Sort Only|*NEW* Added Re-channel save config|*CLEANUP* Removed unused stuffs|[v2.34.1] - December 20, 2025|*NEW* Added manual setting of CABAL window name|*FIX* Adjusted dungeons for other private servers|[v2.34.0] - December 19, 2025|*PROMO* DECEMBER 2025 CHRISTMAS PROMO|*FIX* Dungeon: AHV - Fixed not moving to Lumberjack with Mercenary|*NEW* Dungeon: TRAIN - Added Loot Timer after Final Boss|*NEW* Dungeon: ARH - Added Loot Timer after Final Boss|*ADJUST* Dungeon: LID - Improved after mini boss Rik|*OTHER* Miscellaneous fixes|[v2.33.X] - November 2025|*NEW* Added Auto-Buy dungeon entry on some servers|*NEW* Changed setup of target window to drag to CABAL client|*FIX* Fixed incosistent Retarget Delay|[v2.XX.X] - Older Version History|Archived.GEND
 links_normal_mac=https://youtu.be/JVUtSvKZqZs|https://youtu.be/ouQXHytcPz0GEND
 links_normal_dun=https://youtu.be/-PXZzeuBdAEND
