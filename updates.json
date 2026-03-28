@@ -1,6 +1,12 @@
 {
+    "[v2.37.0] - March 29, 2026": [
+        "*UPDATE* Default OFFICIAL (SEA) to Episode 40+",
+        "*NEW* Dungeon: Awakened Catacomb Frost (ACF)",
+        "*NEW* Dungeon: Awakened Illusion Castle (AIC)",
+        "*ADJUST* Dungeon: EOD B1F Fail to enter rooms"
+     ],
      "[v2.36.0] - February 27, 2026": [
-        "*UPDATE* Support latest patch Episode 40+"        
+        "*UPDATE* Support latest patch Episode 40+"
      ],
     "[v2.35.0] - February 8, 2026": [
         "*NEW* Dungeon: Siena B2F - Polluted Mobs Spot",
